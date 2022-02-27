@@ -12,10 +12,13 @@
 * 模式
   * 玩家對戰
   * 與電腦對戰
+
+<img src="https://github.com/Wangpoching/gomoku-app/blob/master/src/images/screenshots/.png" width="300" align=center/> 
+
 * 悔棋系統
 * 自動判定勝負
 
-<img src="https://github.com/Wangpoching/just-a-bite/blob/master/public/images/screenshots/QA.png" width="300" align=center/> 
+<img src="https://github.com/Wangpoching/gomoku-app/blob/master/src/images/screenshots/AI.png" width="300" align=center/> 
 
 ## Contacts
 
